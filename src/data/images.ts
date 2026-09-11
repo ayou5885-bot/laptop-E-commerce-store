@@ -66,7 +66,8 @@ export const productImages = {
 
   // Apple
   macbookAir13: 'public/images/laptops/imageslaptopsmacbook-air-13.jpg',
-  macbookAir15: 'public/images/laptops/macbook-air-15.svg',
+  macbookAir15: 'public/images/laptops/imageslaptopsmacbook-air-15.jfif
+',
   macbookPro14: 'public/images/laptops/macbook-pro-14.svg',
 
   // Brand logos (optional — replace with your own if desired)
