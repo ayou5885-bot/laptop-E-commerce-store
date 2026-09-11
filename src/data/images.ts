@@ -68,6 +68,7 @@ export const productImages = {
   macbookAir13: '/images/laptops/mages (2).jfif',
   macbookAir15: '/images/laptops/images (1).jfif',
   macbookPro14: '/images/laptops/images.jfif',
+  pcgamer: '/images/gaming pc/Screenshot 2026-09-10 140832.png',
 
   // Brand logos (optional — replace with your own if desired)
   brandDell: '/images/brands/dell.svg',
