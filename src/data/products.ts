@@ -1043,6 +1043,32 @@ export const products: Product[] = [
     isNew: true,
     releaseDate: '2023-11-01',
   },
+  {    id: 41,
+    brand: 'gaming pc',
+    model: 'r5000',
+    slug: 'pc-gamer',
+    category: 'Creative',
+    price: 2200,
+    image: productImages.gmaingpc,
+    gallery: [productImages.gamingpc],
+    shortDescription: 'PC GAMER RAPTOR AMD RYZEN5 5500 | RTX 3050 | 16GB RAM | 256GB SSD.',
+    fullDescription:
+     'Découvrez le PC GAMER RAPTOR, la configuration idéale pour les gamers algériens en 2026 qui recherchent un excellent rapport qualité/prix. Conçu pour offrir une expérience de jeu fluide et immersive, ce PC est votre passeport pour le monde du gaming sans compromis sur votre budget'
+  ,processor: 'AMD RYZEN5 5500 (6C,12T)',
+    graphics: 'ZOTAC GAMING GEFORCE RTX 3050 SOLO 6GB',
+    ram: 'ADATA 16GB DDR4 3200 MHZ',
+    storage: 'SSD SATA 3 ADATA SU680 256GB',
+    Boîtier :'HYBROK RS6 4X ARGB FANS',
+    Alimentation :'ACER 550W 80PLUS BRONZE',
+    Carte mère :'ASUS PRIME A520M-R',
+
+    
+    availability: 'In Stock',
+    featured: true,
+    bestSeller: true,
+    isNew: true,
+    releaseDate: '2023-11-01',
+  },
 ];
 
 export const brands: { name: string; slug: string; productCount: number }[] = [
