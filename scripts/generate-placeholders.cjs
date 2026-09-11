@@ -80,6 +80,7 @@ const laptops = [
   { name: 'macbook-air-13', brand: 'Apple', model: 'MacBook Air 13', color: '#555555' },
   { name: 'macbook-air-15', brand: 'Apple', model: 'MacBook Air 15', color: '#555555' },
   { name: 'macbook-pro-14', brand: 'Apple', model: 'MacBook Pro 14', color: '#555555' },
+  { name: 'pc-gamer', brand: 'ayo', model: ' r5000', color: '#555555' },
 ];
 
 const outputDir = path.join(process.cwd(), 'public', 'images', 'laptops');
