@@ -65,7 +65,7 @@ export const productImages = {
   acerNitro16: '/images/laptops/acer-nitro-16.svg',
 
   // Apple
-  macbookAir13: 'public/images/laptops/macbook-air-13.svg',
+  macbookAir13: 'public/images/laptops/imageslaptopsmacbook-air-13.jpg',
   macbookAir15: 'public/images/laptops/macbook-air-15.svg',
   macbookPro14: 'public/images/laptops/macbook-pro-14.svg',
 
