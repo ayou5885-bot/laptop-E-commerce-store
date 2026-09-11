@@ -65,9 +65,9 @@ export const productImages = {
   acerNitro16: '/images/laptops/acer-nitro-16.svg',
 
   // Apple
-  macbookAir13: 'public/images/laptops/imageslaptopsmacbook-air-13.jpg',
-  macbookAir15: 'public/images/laptops/imageslaptopsmacbook-air-15.jfif',
-  macbookPro14: 'public/images/laptops/macbook-pro-14.svg',
+  macbookAir13: '/images/laptops/imageslaptopsmacbook-air-13.jpg',
+  macbookAir15: '/images/laptops/imageslaptopsmacbook-air-15.jfif',
+  macbookPro14: '/images/laptops/macbook-pro-14.svg',
 
   // Brand logos (optional — replace with your own if desired)
   brandDell: '/images/brands/dell.svg',
